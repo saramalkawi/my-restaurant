@@ -42,4 +42,3 @@
 
 <br> 
 
-![wireframe](lab04.jpg)
